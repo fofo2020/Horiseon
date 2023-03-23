@@ -6,7 +6,7 @@ Horiseon Page
 
 This project for Heriseon site is focused on improving the web accessiblity aspect and meeting the minimum requirements for people with disabilites so they can access the website. and navigate without restrictions. 
 
-To achive that we had to addequet the code changiing the following aspects:
+To achive that we had to addequet the code changing the following aspects:
 
 * Semantic HTML elements on the source code
 
