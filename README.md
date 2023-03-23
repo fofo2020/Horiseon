@@ -1,6 +1,6 @@
 # Horiseon Page 
 
-![Horiseon page](HoriseonHero.png)
+![Horiseon page](assets/images/HoriseonHero.png)
 
 https://fofo2020.github.io/Horiseon/
 
