@@ -1,4 +1,4 @@
-# Horiseon Page 
+# Horiseon
 
 ![Horiseon page](assets/images/HoriseonHero.png)
 
